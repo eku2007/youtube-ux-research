@@ -8,9 +8,20 @@ The goal of this rapid UX research project was to identify and categorize core u
 ## Project Deliverables
 The complete research data, affinity map, and resulting User Persona ("The Late-Night Scholar") were built and organized in FigJam.
 
-**🔗 [Click here to view the full FigJam Research Board](https://www.figma.com/board/nLWiLbShgTjokyUha4EvNt/YouTube-UX-Research---Affinity-Map?node-id=0-1&t=MDZ9M40C0IvHjqgy-1)**
+🔗 [Click here to view the full FigJam Research Board](https://www.figma.com/board/nLWiLbShgTjokyUha4EvNt/YouTube-UX-Research---Affinity-Map?node-id=0-1&t=MDZ9M40C0IvHjqgy-1)**
 
 ## Methodology
-* **User Surveys:** Collected direct feedback on daily app usage and frustrations.
-* **Affinity Mapping:** Categorized unstructured feedback into clear problem zones.
-* **Persona Creation:** Synthesized the data into a target archetype to guide future design solutions.
+**User Surveys:** Collected direct feedback on daily app usage and frustrations.
+**Affinity Mapping:** Categorized unstructured feedback into clear problem zones.
+**Persona Creation:** Synthesized the data into a target archetype to guide future design solutions.
+
+
+
+
+## 📱 The Solution: "Focus Mode" Wireframe
+To directly address the frustrations of our persona, Aarav, I designed a low-fidelity UI wireframe introducing a custom **Focus Mode** feature. 
+
+This prominent toggle allows users to prioritize background audio (saving battery) while deferring mid-roll ads to the beginning or end of the video, ensuring uninterrupted late-night study sessions.
+
+<img width="390" height="844" alt="Group 3 (1)" src="https://github.com/user-attachments/assets/19e1701a-479a-48c3-ab71-283eab713875" />
+
