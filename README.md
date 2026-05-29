@@ -23,5 +23,6 @@ To directly address the frustrations of our persona, Aarav, I designed a low-fid
 
 This prominent toggle allows users to prioritize background audio (saving battery) while deferring mid-roll ads to the beginning or end of the video, ensuring uninterrupted late-night study sessions.
 
-<img width="390" height="844" alt="Group 3 (1)" src="https://github.com/user-attachments/assets/19e1701a-479a-48c3-ab71-283eab713875" />
+<img width="390" height="844" alt="Group 3@2x" src="https://github.com/user-attachments/assets/d2a217f2-215b-474f-a53f-8c4db83de5e1" />
+
 
