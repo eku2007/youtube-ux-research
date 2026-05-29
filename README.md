@@ -27,5 +27,12 @@ This prominent toggle allows users to prioritize background audio (saving batter
 <img width="390" height="844" alt="Group 3@2x" src="https://github.com/user-attachments/assets/d2a217f2-215b-474f-a53f-8c4db83de5e1" />
 
 
-### 🚀 Interactive Prototype
+🚀 Interactive Prototype
+Experience the user flow firsthand. The interactive Figma prototype demonstrates how a user seamlessly activates "Focus Mode" to minimize distractions during a study session.
+
+🔗 Test the live Focus Mode prototype in Figma
+Key Interactions to Try:
+Toggle Focus Mode: Tap the custom toggle in the player settings to instantly switch layouts.
+Audio-Only View: Observe how the UI transitions to save battery and reduce visual clutter.
+Deferred Ad Prompt: See how mid-roll interruptions are gracefully rescheduled. 🚀 Interactive Prototype
 [Click here to test out the live Focus Mode prototype in Figma!](https://www.figma.com/proto/2EzooBERyxxpgfhcKTneHj/Untitled?node-id=0-1&t=Ry9nG5UhPN4LADv8-1)
