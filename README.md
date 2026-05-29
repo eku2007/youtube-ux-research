@@ -11,8 +11,9 @@ The complete research data, affinity map, and resulting User Persona ("The Late-
 🔗 [Click here to view the full FigJam Research Board](https://www.figma.com/board/nLWiLbShgTjokyUha4EvNt/YouTube-UX-Research---Affinity-Map?node-id=0-1&t=MDZ9M40C0IvHjqgy-1)**
 
 ## Methodology
-**User Surveys:** Collected direct feedback on daily app usage and frustrations.
-**Affinity Mapping:** Categorized unstructured feedback into clear problem zones.
+**User Surveys:** Collected direct feedback on daily app usage and frustrations.  
+  📋 [Click here to view the YouTube UX User Survey](https://forms.gle/vwhhuBjVLRp6mZhs6)
+**Affinity Mapping:** Categorized unstructured feedback into clear problem zones. 
 **Persona Creation:** Synthesized the data into a target archetype to guide future design solutions.
 
 
